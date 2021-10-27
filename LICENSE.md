@@ -1,5 +1,4 @@
-Copyright (c) 2021 Gregory Karastergios
-
+Copyright (c) 2021 Gregory Karastergios  
 All rights reserved.
 
 I. Redistribution and use in source and binary forms, with or without
